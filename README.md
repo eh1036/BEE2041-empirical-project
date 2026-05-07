@@ -1,5 +1,5 @@
 
-*The Sub 3-Hour Marathon*
+# The Sub 3-Hour Marathon
 
 
 
