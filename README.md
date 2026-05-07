@@ -1,5 +1,5 @@
 
-# BEE2041 Empirical Project — The Sub 3-Hour Marathon
+The Sub 3-Hour Marathon
 
 
 
@@ -15,23 +15,23 @@ I have composed an analysis on the strategy behind running a sub 3-hour marathon
 
 
 
-# Data Sources - 
+# Data Sources 
 
 
 
-**This is the data from the Boston Marathon Results:** 2023 Boston Marathon results via the SCORE Sports Data Repository — https://data.scorenetwork.org/running/boston_marathon_2023.html - 
+**This is the data I used that comes from the Boston Marathon Results:** 2023 Boston Marathon results via the SCORE Sports Data Repository — https://data.scorenetwork.org/running/boston_marathon_2023.html 
 
 
 
-**This is the weather data from the day of the 2023 Boston Marathon** Scraped from the Open-Meteo Historical Weather API — https://open-meteo.com 
+**This is the weather data I used from the day of the 2023 Boston Marathon** Scraped from the Open-Meteo Historical Weather API — https://open-meteo.com 
 
 
 
-# These are the requirements in order to reproduce this assignment:
+#  So you can test or redo this assignment, the different software systems you will need access to includes:
 
 - Python 3.9+
 
-- pandas
+- jupyterlab
 
 - matplotlib
 
@@ -45,7 +45,6 @@ I have composed an analysis on the strategy behind running a sub 3-hour marathon
 
 - beautifulsoup4
 
-- jupyterlab
 
 
 
